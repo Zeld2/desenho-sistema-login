@@ -5,5 +5,5 @@ Imagine que você é o(a) arquiteto(a) responsável pelo desenho de um sistema d
 
 Desenhe uma estrutura de software que sustente esse serviço, pode ser um desenho simples, da maneira que você preferir, desde que o mesmo transmita a ideia da arquitetura que você teve para quem o lê. Colocamos aqui um exemplo de desenho de uma arquitetura aleatória para servir de inspiração.
 
-#Resolução
+# Resolução
 ![image](https://user-images.githubusercontent.com/92027635/216778226-4d548e8a-3393-4450-bb43-3cc0900a8915.png)
